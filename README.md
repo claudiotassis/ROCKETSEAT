@@ -10,5 +10,4 @@
 CLIQUE EM UM CURSO ABAIXO PARA ACOMPANHAR MEU PROGRESSO DE ESTUDOS
 
 ### Formações
-1. FullStack 🚧
-![alt text](image-1.png)
+<a href="https://github.com/claudiotassis/ROCKETSEAT/tree/main/Full-Stack">1. FullStack</a> 🚀

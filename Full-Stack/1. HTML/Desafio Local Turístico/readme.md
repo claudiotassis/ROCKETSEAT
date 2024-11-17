@@ -1,1 +1,1 @@
-[![alt text](image.png)](https://www.figma.com/design/N6yw7zDTmEkrnyurWRWiP3/Local-Tur%C3%ADstico-(Community)?node-id=2113-396&node-type=frame&t=ZcCCKT945BRPRyMU-0)
+![image](https://github.com/user-attachments/assets/099fc478-b833-4ec4-a67d-f386ef94c608)
